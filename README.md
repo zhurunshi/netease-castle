@@ -1,2 +1,4 @@
 # netease-castle
-netease-online-classroom assignment
+My nickname is RushChuh.
+
+This is the first Netease-online-classroom project of Git.
